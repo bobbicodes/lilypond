@@ -18,6 +18,7 @@
   g1 c c d2 e1 e
   g1 c c d2 e1 e}
   \relative c'' {
+   \numericTimeSignature
   \time 4/4
     r4 e d8 c b4
 	b c8 b( b) a g a
